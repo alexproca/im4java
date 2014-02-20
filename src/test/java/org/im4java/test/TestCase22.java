@@ -23,8 +23,7 @@ package org.im4java.test;
 
 import java.util.*;
 import java.io.*;
-import org.im4java.core.*;
-import org.im4java.process.*;
+
 import org.im4java.utils.*;
 
 /**

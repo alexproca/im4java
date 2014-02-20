@@ -21,7 +21,6 @@
 
 package org.im4java.test;
 
-import java.io.*;
 import java.util.concurrent.*;
 
 import org.im4java.core.*;

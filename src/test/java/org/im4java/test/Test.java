@@ -23,15 +23,8 @@ package org.im4java.test;
 
 import java.util.*;
 import java.io.*;
-import java.awt.image.*;
-import javax.imageio.ImageIO;
 
 import org.im4java.core.*;
-import org.im4java.process.Pipe;
-import org.im4java.process.ArrayListOutputConsumer;
-import org.im4java.process.ProcessEvent;
-import org.im4java.process.ProcessStarter;
-import org.im4java.utils.*;
 
 
 /**

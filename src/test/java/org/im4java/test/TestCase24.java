@@ -25,7 +25,6 @@ import java.util.*;
 
 import org.im4java.core.*;
 import org.im4java.process.*;
-import org.im4java.utils.*;
 
 /**
    This class implements a test for the IM compare command.
