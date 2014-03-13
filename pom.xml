@@ -22,9 +22,7 @@
         </license>
     </licenses>
     <scm>
-        <connection>
-            scm:svn:https://im4java.svn.sourceforge.net/svnroot/im4java im4java
-        </connection>
+        <connection>scm:git@github.com:alexproca/im4java.git</connection>
         <url>scm:svn:https://im4java.svn.sourceforge.net/svnroot/im4java im4java</url>
         <developerConnection>
             scm:svn:https://im4java.svn.sourceforge.net/svnroot/im4java im4java
